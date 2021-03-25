@@ -1,0 +1,16 @@
+PODS:
+  - myNetWork (0.1.0)
+
+DEPENDENCIES:
+  - myNetWork (from `../`)
+
+EXTERNAL SOURCES:
+  myNetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myNetWork: 98b61d7a736000d8ef58226034d7ed71374cc675
+
+PODFILE CHECKSUM: eab1b04a32d113ea6b3ed871202acb1a90fe0872
+
+COCOAPODS: 1.10.0

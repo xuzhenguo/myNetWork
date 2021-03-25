@@ -1,0 +1,22 @@
+{
+  "name": "myNetWork",
+  "version": "0.1.0",
+  "summary": "A short description of myNetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuzhenguo/myNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuzhenguo": "xuzhenguo@vi163.com"
+  },
+  "source": {
+    "git": "https://github.com/xuzhenguo/myNetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "myNetWork/Classes/**/*"
+}

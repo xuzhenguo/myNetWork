@@ -7,6 +7,7 @@
 //
 
 #import "TCJViewController.h"
+#import "LiZiZhaoKeTabViewTestTestController.h"
 
 @interface TCJViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor redColor];
+   
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
