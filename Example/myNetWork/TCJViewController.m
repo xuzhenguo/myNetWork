@@ -8,6 +8,7 @@
 
 #import "TCJViewController.h"
 #import "LiZiZhaoKeTabViewTestTestController.h"
+#import "PodTestUIViewController.h"
 
 @interface TCJViewController ()
 
@@ -31,7 +32,7 @@
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
 
-    LiZiZhaoKeTabViewTestTestController *testView = [[LiZiZhaoKeTabViewTestTestController alloc] init];
+    PodTestUIViewController *testView = [[PodTestUIViewController alloc] init];
     [self presentViewController:testView animated:YES completion:^{
         
     }];

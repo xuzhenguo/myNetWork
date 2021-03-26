@@ -11,6 +11,7 @@
 #endif
 
 #import "LiZiZhaoKeTabViewTestTestController.h"
+#import "PodTestUIViewController.h"
 
 FOUNDATION_EXPORT double myNetWorkVersionNumber;
 FOUNDATION_EXPORT const unsigned char myNetWorkVersionString[];
