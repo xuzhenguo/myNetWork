@@ -25,6 +25,13 @@
     testBtn.backgroundColor = [UIColor orangeColor];
     [self.view addSubview:testBtn];
     
+    
+    UIButton *testBtn2 = [[UIButton alloc] init];
+    [testBtn2 setTitle:@"testtest" forState:(UIControlStateNormal)];
+    testBtn2.frame = CGRectMake(100, 300, 100, 100);
+    testBtn2.backgroundColor = [UIColor orangeColor];
+    [self.view addSubview:testBtn2];
+    
 }
 
 
